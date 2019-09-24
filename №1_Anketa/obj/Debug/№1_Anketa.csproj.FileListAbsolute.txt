@@ -1,0 +1,6 @@
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№1_Anketa\bin\Debug\№1_Anketa.exe.config
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№1_Anketa\bin\Debug\№1_Anketa.exe
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№1_Anketa\bin\Debug\№1_Anketa.pdb
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№1_Anketa\obj\Debug\№1_Anketa.csproj.CoreCompileInputs.cache
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№1_Anketa\obj\Debug\№1_Anketa.exe
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№1_Anketa\obj\Debug\№1_Anketa.pdb

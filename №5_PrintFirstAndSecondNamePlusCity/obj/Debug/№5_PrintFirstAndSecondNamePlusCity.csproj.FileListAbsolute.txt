@@ -1,0 +1,7 @@
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№5_PrintFirstAndSecondNamePlusCity\bin\Debug\№5_PrintFirstAndSecondNamePlusCity.exe.config
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№5_PrintFirstAndSecondNamePlusCity\bin\Debug\№5_PrintFirstAndSecondNamePlusCity.exe
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№5_PrintFirstAndSecondNamePlusCity\bin\Debug\№5_PrintFirstAndSecondNamePlusCity.pdb
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№5_PrintFirstAndSecondNamePlusCity\obj\Debug\№5_PrintFirstAndSecondNamePlusCity.csproj.CoreCompileInputs.cache
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№5_PrintFirstAndSecondNamePlusCity\obj\Debug\№5_PrintFirstAndSecondNamePlusCity.exe
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№5_PrintFirstAndSecondNamePlusCity\obj\Debug\№5_PrintFirstAndSecondNamePlusCity.pdb
+c:\users\fence_2\source\repos\GB_1-lesson-Homework\№5_PrintFirstAndSecondNamePlusCity\obj\Debug\№5_PrintFirstAndSecondNamePlusCity.csprojAssemblyReference.cache
